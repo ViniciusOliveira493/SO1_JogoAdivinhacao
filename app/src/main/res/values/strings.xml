@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">JogoAdivinhacao</string>
+    <string name="app_name">Jogo de Adivinhação</string>
+    <string name="tentar">Tentar</string>
+    <string name="digiteNumero">Digite um número</string>
+    <string name="voltar">Voltar</string>
+    <string name="numeroMaior">O número é maior</string>
+    <string name="numeroMenor">O número é menor</string>
+    <string name="parabens">Parabéns! Você acertou o número:</string>
 </resources>
